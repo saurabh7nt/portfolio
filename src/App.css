@@ -1,0 +1,28 @@
+/* Other styles for your application */
+.footer {
+    background-color: #f8f9fa;
+    /* Set the background color you prefer */
+    padding: 20px;
+    /* Adjust padding as needed */
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+/* CSS file (e.g., App.css) */
+.icon-links a svg {
+    fill: black;
+    margin-right: 15px;
+    margin-top: 15px;
+}
+
+.nav-item {
+    margin-right: 15px;
+}
+
+.centertext {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+}
